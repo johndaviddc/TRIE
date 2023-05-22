@@ -23,3 +23,4 @@ This function searches for a word in the Trie. It starts at the root of the Trie
 <h2>Contributing</h2>
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
+
